@@ -1,8 +1,6 @@
 # Share localhost. Get live feedback, instantly.
 
-**One command turns localhost into a public URL. Viewers leave a voice memo right on the page. You get the transcript in your terminal, ready for your agent.**
-
-Built by Team SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), so you can ship a half-finished feature, hand a friend a link, and hear what they actually thought without spinning up staging or shipping a PR preview.
+Built by Team SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), so you can ship a half-finished feature, hand a friend a link, and hear what they actually thought without spinning up staging or shipping a PR preview. One command turns localhost into a public URL, your viewer leaves a voice memo on the page, and the transcript lands in your terminal ready for your agent.
 
 <p align="left">
   <strong>Install the Stoa CLI ──▶ </strong>&nbsp;
@@ -36,7 +34,7 @@ Built by Team SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), 
 
 ## Workflow
 
-1. **Install.** Run `brew tap specstoryai/tap && brew install stoa`. One binary, no account required to share.
+1. **Install.** Run `brew tap specstoryai/tap && brew install stoa`. One binary. A free Stoa account is required to share.
 2. **Run one command.** `stoa sharelocalhost` lists your running dev servers. Pick one. You get a public URL back, live for one hour.
 3. **Hand over the link.** Viewers open it on their own machine. A small button sits in the corner of every page. They click, record a voice memo, send.
 4. **Hear the feedback.** Audio and transcript stream back to your terminal and drop into `~/.stoa/feedback/` next to the original recording.
@@ -51,7 +49,7 @@ Built by Team SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), 
 | **Other package managers** | Closed | See [docs.withstoa.com/reference/cli#installation](https://docs.withstoa.com/reference/cli#installation) | v0.7.0+ |
 
 > [!NOTE]
-> No account needed to share a localhost URL. Sign in only if you want history, longer-lived links, or team features.
+> A free [Stoa](https://withstoa.com/sharelocalhost) account is required to share. Sign in once, then `stoa sharelocalhost` from any project.
 
 ### Quick start
 
