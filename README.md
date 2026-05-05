@@ -2,7 +2,7 @@
 
 **One command turns localhost into a public URL. Viewers leave a voice memo right on the page. You get the transcript in your terminal, ready for your agent.**
 
-Built by Team SpecStory, makers of [Stoa](https://withstoa.com), so you can ship a half-finished feature, hand a friend a link, and hear what they actually thought without spinning up staging or shipping a PR preview.
+Built by Team SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), so you can ship a half-finished feature, hand a friend a link, and hear what they actually thought without spinning up staging or shipping a PR preview.
 
 <p align="left">
   <strong>Install the Stoa CLI ──▶ </strong>&nbsp;
@@ -107,8 +107,11 @@ A public URL is the start. The feedback loop is the point.
 - 📚 **[Full Documentation](https://docs.withstoa.com)**: guides, reference, and API
 - 🛠️ **[CLI Reference](https://docs.withstoa.com/reference/cli)**: every command and flag
 - 🎙️ **[`stoa sharelocalhost` docs](https://docs.withstoa.com/sharelocalhost)**: deeper guide for this feature
-- 🐛 **Report issues**: open an issue in this repo
+- 🐛 **Report a bug or request a feature**: [open an issue](../../issues/new) in this repo. We triage and respond here.
 - 📨 **Contact**: [hello@withstoa.com](mailto:hello@withstoa.com)
+
+> [!TIP]
+> This repo is the home for `stoa sharelocalhost` issues and feature requests. Found a bug, hit a rough edge, or have an idea for what should ship next? [Open an issue](../../issues/new) and we'll see it.
 
 ## Reviews & Feedback
 
