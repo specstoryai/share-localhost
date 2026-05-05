@@ -1,6 +1,6 @@
 # Share localhost. Get live feedback, instantly.
 
-Built by Team SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), so you can ship a half-finished feature, hand a friend a link, and hear what they actually thought without spinning up staging or shipping a PR preview. One command turns localhost into a public URL, your viewer leaves a voice memo on the page, and the transcript lands in your terminal ready for your agent.
+Built by SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), so you can ship a half-finished feature, hand a friend a link, and hear what they actually thought without spinning up staging or shipping a PR preview. One command turns localhost into a public URL, your viewer leaves a voice memo on the page, and the transcript lands in your terminal ready for your agent.
 
 <p align="left">
   <strong>Install the Stoa CLI ──▶ </strong>&nbsp;
