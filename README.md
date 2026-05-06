@@ -1,5 +1,7 @@
 # Share localhost. Get live feedback, instantly.
 
+https://github.com/user-attachments/assets/078e64ca-4d2b-42c6-8ca2-06e6efcc8c32
+
 Built by SpecStory, makers of [Stoa](https://withstoa.com/sharelocalhost), so you can ship a half-finished feature, hand a friend a link, and hear what they actually thought without spinning up staging or shipping a PR preview. One command turns localhost into a public URL, your viewer leaves a voice memo on the page, and the transcript lands in your terminal ready for your agent.
 
 <p align="left">
